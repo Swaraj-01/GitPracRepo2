@@ -11,6 +11,7 @@ public class PracticeTestCase2 {
 		RemoteWebDriver driver = new ChromeDriver();
 		driver.get("https://www.amazon.in/");
 		driver.manage().window().maximize();
+		System.out.println();
 	}	
 
 }
