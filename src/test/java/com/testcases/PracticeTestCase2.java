@@ -13,6 +13,7 @@ public class PracticeTestCase2 {
 		driver.manage().window().maximize();
 		System.out.println();
 		System.out.println();
+		System.out.println();
 	}	
 
 }
