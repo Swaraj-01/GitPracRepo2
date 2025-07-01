@@ -12,6 +12,7 @@ public class PracticeTestCase2 {
 		driver.get("https://www.amazon.in/");
 		driver.manage().window().maximize();
 		System.out.println();
+		System.out.println();
 	}	
 
 }
